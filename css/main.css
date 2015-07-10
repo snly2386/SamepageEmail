@@ -1,0 +1,18 @@
+.subtitle{
+	font-family: Verdana;
+	font-size: 16px;
+	color: #1f7878;
+}
+
+.paragraph{
+	font-family: Verdana;
+	font-size: 13px;
+	width: 601px;
+}
+
+.fine-print{
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 12px;
+	color: #666666;
+}
