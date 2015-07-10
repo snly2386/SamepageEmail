@@ -2,13 +2,17 @@
 	font-family: Verdana;
 	font-size: 16px;
 	color: #1f7878;
+	margin-bottom: 0px;
 }
 
 .paragraph{
 	font-family: Verdana;
 	font-size: 13px;
 	width: 601px;
-	color: black;
+}
+
+.paragraph ul{
+	margin-top: 1px;
 }
 
 .fine-print{
