@@ -6,8 +6,9 @@
 }
 
 .subtitle{
+	font-family: Verdana;
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 13px;
 	color: black;
 	margin-top: 1px;
 }
