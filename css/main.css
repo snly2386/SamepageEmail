@@ -1,14 +1,22 @@
-.subtitle{
+.title{
 	font-family: Verdana;
 	font-size: 14px;
 	color: #1f7878;
 	margin-bottom: 0px;
 }
 
+.subtitle{
+	font-weight: bold;
+	font-size: 14px;
+	color: black;
+	margin-top: 1px;
+}
+
 .paragraph{
 	font-family: Verdana;
 	font-size: 13px;
 	width: 601px;
+	margin-top: -11px;
 }
 
 .paragraph ul{
@@ -21,3 +29,4 @@
 	font-size: 12px;
 	color: #666666;
 }
+
