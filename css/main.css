@@ -9,8 +9,9 @@
 .subtitle{
 	font-family: Verdana;
 	font-size: 13px;
-	color: black;
 	margin-top: 1px;
+	color: #51a7a6;
+	font-weight: bold;
 }
 
 .paragraph{
