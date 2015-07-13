@@ -1,4 +1,5 @@
 .title{
+	font-weight: bold;
 	font-family: Verdana;
 	font-size: 14px;
 	color: #1f7878;
@@ -7,7 +8,6 @@
 
 .subtitle{
 	font-family: Verdana;
-	font-weight: bold;
 	font-size: 13px;
 	color: black;
 	margin-top: 1px;
